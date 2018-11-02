@@ -1,0 +1,1 @@
+# small-qr-project-with-qr-codes
