@@ -1,1 +1,1 @@
-# small-qr-project-with-qr-codes
+# dialog / quest system
